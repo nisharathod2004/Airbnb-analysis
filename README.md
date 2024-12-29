@@ -53,6 +53,11 @@ This analysis uses two key datasets provided in `.csv` format:
 
 ---
 
+## Tools Used
+- **MySQL**: For querying and analyzing the datasets.
+
+---
+
 ## Conclusion
 
 The analysis provided actionable insights that Airbnb can use to:
@@ -61,8 +66,3 @@ The analysis provided actionable insights that Airbnb can use to:
 - Assist hosts in understanding market demand and improving listing performance.
 
 This project demonstrates the value of data-driven decision-making in the hospitality industry, helping Airbnb maintain a competitive edge by continuously enhancing customer experiences.
-
----
-
-## Tools Used
-- **MySQL**: For querying and analyzing the datasets.
