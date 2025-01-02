@@ -5,7 +5,6 @@ use project_airbnb;
 show tables;
 
 #Q1 Import Data from both the .CSV files to create tables, Listings and Booking Details.
-show tables;
 select * from listings;
 select * from booking_details;
 
